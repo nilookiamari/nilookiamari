@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Niloofar, and I'm a PhD-qualified mathematician interested in all things Python & Data Science!
+
+- 🔭 I’m currently learning PowerBI
+- 🌱 I recently built an Android app using Java, OpenCV, and XML to automate grading of exam papers, chenck it out [here]().
+- 👯 I’m looking to collaborate on YouTube videos!
 <!--
 **nilookiamari/nilookiamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
