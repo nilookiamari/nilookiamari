@@ -2,7 +2,7 @@
 
 My name is Niloofar, and I'm a PhD-qualified mathematician interested in all things Python & Data Science!
 
-🔭 **Currently learning:** Power BI for interactive dashboards and visualizations
+🔭 **Currently working on:** Creating YouTube videos about Python, data analysis, and tech tutorials
 
 🌱 **Recent projects:** 
 
