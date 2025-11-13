@@ -8,7 +8,7 @@ My name is Niloofar, and I'm a PhD-qualified mathematician interested in all thi
 
 - **Browser Activity Tracker:** Collects and analyzes web activity with Python & SQL; visualizations in Jupyter Notebook showing top sites, time-of-day trends, and category usage. Power BI integration is possible for future development – check it out [here](https://github.com/nilookiamari/browser_activity_project)
 
-- **Exam Scanner App:** Android app using Java, OpenCV, and XML to automate exam grading.
+- **Exam Scanner App:** Android app using Java, OpenCV, and JXL to automate exam grading.
 
 💡 **Interests:** Data analysis, automation, and turning complex datasets into actionable insights
 
